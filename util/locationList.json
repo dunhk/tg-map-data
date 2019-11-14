@@ -1,7 +1,1 @@
-[
-  {
-    "regionList": ["旺角","太子"],
-    "key": "警署",
-    "itemList": ["警署","狗屋"]
-  }
-]
+[{"regionList":["旺角"],"key":["信和"],"itemList":["信和"]},{"regionList":["旺角","太子"],"key":["警署"],"itemList":["警署","狗屋"]},{"regionList":["旺角","太子","尖沙咀"],"key":["彌敦道"],"itemList":["彌敦道"]},{"regionList":["旺角"],"key":["黨鐵"],"itemList":["黨鐵","地鐵"]},{"regionList":["太子"],"key":["黨鐵"],"itemList":["黨鐵","地鐵"]},{"regionList":["尖沙咀"],"key":["黨鐵"],"itemList":["黨鐵","地鐵"]}]
